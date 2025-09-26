@@ -41,11 +41,6 @@ outputs/**/*.zip
 outputs/**/*.gpkg
 outputs/**/*.shp
 
-# Directorios legados (hasta migración completa)
-datos/descargas_retc/
-datos/filtrados_region/
-UnidadesPaisajeRM/
-
 # Logs y temporales
 *.log
 *.tmp
