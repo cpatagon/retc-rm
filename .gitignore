@@ -1,0 +1,53 @@
+# Python artefacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Datos (mantener README explicativos)
+data/raw/
+!data/raw/README.md
+data/interim/
+!data/interim/README.md
+data/processed/**/*.parquet
+data/processed/**/*.feather
+*.csv
+*.xlsx
+
+# Geo (archivos pesados)
+geo/insumos/
+!geo/insumos/README.md
+geo/processed/
+!geo/processed/README.md
+geo/public/**/*.zip
+
+# Outputs voluminosos
+outputs/tmp/
+outputs/**/*.zip
+outputs/**/*.gpkg
+outputs/**/*.shp
+
+# Directorios legados (hasta migración completa)
+datos/descargas_retc/
+datos/filtrados_region/
+UnidadesPaisajeRM/
+
+# Logs y temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
