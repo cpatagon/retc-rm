@@ -54,7 +54,7 @@ RetC/
 
 ```
 4.1 Aire
-  4.1.1 Meteorológicas #1
+  4.1.1 Meteorológicas y Climáticas
     4.1.1.1 Variable(s) Tipo #1
       Análisis de brechas en variable(s) tipo #1
         Unidad Alta Cordillera:
@@ -73,6 +73,8 @@ RetC/
     …
     4.1.1.N Variable(s) Tipo #N
       …
+  4.1.2 Calidad del Aire
+    (Repetir la estructura para cada Variable(s) Tipo #N)
 ```
 
 - Completa las secciones de cada unidad del paisaje con hallazgos cuantitativos y referencias a los scripts/notebooks utilizados.
