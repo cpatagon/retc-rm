@@ -49,6 +49,35 @@ RetC/
 - Documenta cada capa con ficha ISO (título, alcance, CRS, linaje, fecha) bajo `metadata/iso19115/`.
 - Exporta resultados espaciales con prefijo `LBP_AIRE_<DATETIME>_` y README con comandos de generación.
 
+## Plantilla de Análisis de Brechas
+- Documenta cada informe siguiendo la jerarquía:
+
+```
+4.1 Aire
+  4.1.1 Meteorológicas #1
+    4.1.1.1 Variable(s) Tipo #1
+      Análisis de brechas en variable(s) tipo #1
+        Unidad Alta Cordillera:
+        Unidad Precordillera:
+        Unidad Valle Central Agrícola:
+        Unidad Valle Central Espinales:
+        Unidad Cordillera de la Costa Sur:
+        Unidad Cordillera de la Costa Norte:
+        Unidad Áreas Urbanas:
+      Análisis de brechas espaciales
+        (mismas unidades)
+      Análisis de brechas temporales
+        (mismas unidades)
+    4.1.1.2 Variable(s) Tipo #2
+      (repetir estructura anterior)
+    …
+    4.1.1.N Variable(s) Tipo #N
+      …
+```
+
+- Completa las secciones de cada unidad del paisaje con hallazgos cuantitativos y referencias a los scripts/notebooks utilizados.
+- Incluye tablas o gráficos derivados en `outputs/tablas/publicados/` y `outputs/graficos/publicados/` con el prefijo `LBP_AIRE_<DATETIME>_`.
+
 ## Pruebas y Validación
 - Agrega `pytest` para helpers reutilizables usando CSV/GeoJSON de muestra.
 - Tras cada corrida compara salidas con `wc -l`, `head`, `geopandas.GeoDataFrame.plot()` y totales frente a `outputs/tablas/`.
