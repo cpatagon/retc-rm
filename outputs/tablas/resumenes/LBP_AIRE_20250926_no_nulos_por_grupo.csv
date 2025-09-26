@@ -1,0 +1,1122 @@
+﻿contaminante,columna,no_nulos,nulos,total
+Ammonia (NH3),año,76639,0,76639
+Ammonia (NH3),razon_social,75503,1136,76639
+Ammonia (NH3),rut_razon_social,58550,18089,76639
+Ammonia (NH3),nombre_establecimiento,60105,16534,76639
+Ammonia (NH3),id_vu,76639,0,76639
+Ammonia (NH3),ciiu4,54347,22292,76639
+Ammonia (NH3),id_ciiu4,54347,22292,76639
+Ammonia (NH3),rubro_vu,47086,29553,76639
+Ammonia (NH3),id_rubro_vu,47086,29553,76639
+Ammonia (NH3),region,76639,0,76639
+Ammonia (NH3),provincia,76639,0,76639
+Ammonia (NH3),comuna,76639,0,76639
+Ammonia (NH3),id_comuna,73128,3511,76639
+Ammonia (NH3),latitud,56911,19728,76639
+Ammonia (NH3),longitud,58123,18516,76639
+Ammonia (NH3),cantidad_toneladas,73128,3511,76639
+Ammonia (NH3),unidad,73091,3548,76639
+Ammonia (NH3),contaminantes,76639,0,76639
+Ammonia (NH3),id_contaminantes,76639,0,76639
+Ammonia (NH3),fuente_emisora_general,49043,27596,76639
+Ammonia (NH3),id_fuente_emisora,49043,27596,76639
+Ammonia (NH3),sistema,28548,48091,76639
+Ammonia (NH3),ciiu6,16387,60252,76639
+Ammonia (NH3),id_ciiu6,12876,63763,76639
+Ammonia (NH3),tipo_fuente,16384,60255,76639
+Ammonia (NH3),combustible_primario,16384,60255,76639
+Ammonia (NH3),ccf8_primario,6848,69791,76639
+Ammonia (NH3),combustible_secundario,4449,72190,76639
+Ammonia (NH3),ccf8_secundario,452,76187,76639
+Ammonia (NH3),ccf8_materia_prima,56,76583,76639
+Ammonia (NH3),emision_primario,12876,63763,76639
+Ammonia (NH3),emision_secundario,12876,63763,76639
+Ammonia (NH3),emision_materia_prima,12876,63763,76639
+Ammonia (NH3),ciiu4_antiguo,3339,73300,76639
+Ammonia (NH3),id_ciiu4_antiguo,3339,73300,76639
+Ammonia (NH3),rubro_vu_antiguo,3339,73300,76639
+Ammonia (NH3),Listado 2024,3750,72889,76639
+Ammonia (NH3),TIPO_DATO_RETC,3750,72889,76639
+Ammonia (NH3),GE,3750,72889,76639
+Ammonia (NH3),unidad.1,3750,72889,76639
+Ammonia (NH3),potencia_kw,1,76638,76639
+Ammonia (NH3),combustion,3749,72890,76639
+Ammonia (NH3),fuente_esquema,76639,0,76639
+Ammonia (NH3),declaracion_id,3509,73130,76639
+Ammonia (NH3),ciiu6_id,3511,73128,76639
+Ammonia (NH3),rubro,3511,73128,76639
+Ammonia (NH3),rubro_id,3511,73128,76639
+Ammonia (NH3),codigo_unico_territorial,3511,73128,76639
+Ammonia (NH3),source_id,3511,73128,76639
+Ammonia (NH3),codigo_fuente,3509,73130,76639
+Ammonia (NH3),ccf8_procesos,51,76588,76639
+Ammonia (NH3),emision_combustible_primario,3509,73130,76639
+Ammonia (NH3),emision_combustible_secundario,3509,73130,76639
+Ammonia (NH3),emision_procesos,3509,73130,76639
+Ammonia (NH3),emision_total,3509,73130,76639
+Ammonia (NH3),origen_data,3511,73128,76639
+Ammonia (NH3),emision_retc,3511,73128,76639
+Ammonia (NH3),tipo_outlier,3511,73128,76639
+Ammonia (NH3),grupo_canonico,76639,0,76639
+Arsenic (As),año,42532,0,42532
+Arsenic (As),razon_social,40462,2070,42532
+Arsenic (As),rut_razon_social,31808,10724,42532
+Arsenic (As),nombre_establecimiento,32351,10181,42532
+Arsenic (As),id_vu,42532,0,42532
+Arsenic (As),ciiu4,42470,62,42532
+Arsenic (As),id_ciiu4,42470,62,42532
+Arsenic (As),rubro_vu,35182,7350,42532
+Arsenic (As),id_rubro_vu,35182,7350,42532
+Arsenic (As),region,42532,0,42532
+Arsenic (As),provincia,42532,0,42532
+Arsenic (As),comuna,42532,0,42532
+Arsenic (As),id_comuna,39007,3525,42532
+Arsenic (As),latitud,30636,11896,42532
+Arsenic (As),longitud,31564,10968,42532
+Arsenic (As),cantidad_toneladas,39007,3525,42532
+Arsenic (As),unidad,38971,3561,42532
+Arsenic (As),contaminantes,42532,0,42532
+Arsenic (As),id_contaminantes,42532,0,42532
+Arsenic (As),fuente_emisora_general,23719,18813,42532
+Arsenic (As),id_fuente_emisora,23719,18813,42532
+Arsenic (As),sistema,17396,25136,42532
+Arsenic (As),ciiu6,16448,26084,42532
+Arsenic (As),id_ciiu6,12923,29609,42532
+Arsenic (As),tipo_fuente,16435,26097,42532
+Arsenic (As),combustible_primario,16435,26097,42532
+Arsenic (As),ccf8_primario,6880,35652,42532
+Arsenic (As),combustible_secundario,3659,38873,42532
+Arsenic (As),ccf8_secundario,456,42076,42532
+Arsenic (As),ccf8_materia_prima,50,42482,42532
+Arsenic (As),emision_primario,12923,29609,42532
+Arsenic (As),emision_secundario,12923,29609,42532
+Arsenic (As),emision_materia_prima,12923,29609,42532
+Arsenic (As),ciiu4_antiguo,3355,39177,42532
+Arsenic (As),id_ciiu4_antiguo,3355,39177,42532
+Arsenic (As),rubro_vu_antiguo,3355,39177,42532
+Arsenic (As),Listado 2024,3763,38769,42532
+Arsenic (As),TIPO_DATO_RETC,3763,38769,42532
+Arsenic (As),GE,3763,38769,42532
+Arsenic (As),unidad.1,3763,38769,42532
+Arsenic (As),potencia_kw,1,42531,42532
+Arsenic (As),combustion,3750,38782,42532
+Arsenic (As),fuente_esquema,42532,0,42532
+Arsenic (As),declaracion_id,3525,39007,42532
+Arsenic (As),ciiu6_id,3525,39007,42532
+Arsenic (As),rubro,3525,39007,42532
+Arsenic (As),rubro_id,3525,39007,42532
+Arsenic (As),codigo_unico_territorial,3525,39007,42532
+Arsenic (As),source_id,3525,39007,42532
+Arsenic (As),codigo_fuente,3525,39007,42532
+Arsenic (As),ccf8_procesos,44,42488,42532
+Arsenic (As),emision_combustible_primario,3525,39007,42532
+Arsenic (As),emision_combustible_secundario,3525,39007,42532
+Arsenic (As),emision_procesos,3525,39007,42532
+Arsenic (As),emision_total,3525,39007,42532
+Arsenic (As),origen_data,3525,39007,42532
+Arsenic (As),emision_retc,3525,39007,42532
+Arsenic (As),tipo_outlier,3525,39007,42532
+Arsenic (As),grupo_canonico,42532,0,42532
+Benzene,año,80565,0,80565
+Benzene,razon_social,80292,273,80565
+Benzene,rut_razon_social,77790,2775,80565
+Benzene,nombre_establecimiento,76603,3962,80565
+Benzene,id_vu,80565,0,80565
+Benzene,ciiu4,79721,844,80565
+Benzene,id_ciiu4,79721,844,80565
+Benzene,rubro_vu,58191,22374,80565
+Benzene,id_rubro_vu,58191,22374,80565
+Benzene,region,80565,0,80565
+Benzene,provincia,80565,0,80565
+Benzene,comuna,80565,0,80565
+Benzene,id_comuna,69688,10877,80565
+Benzene,latitud,77675,2890,80565
+Benzene,longitud,77675,2890,80565
+Benzene,cantidad_toneladas,69688,10877,80565
+Benzene,unidad,69022,11543,80565
+Benzene,contaminantes,80565,0,80565
+Benzene,id_contaminantes,80565,0,80565
+Benzene,fuente_emisora_general,69091,11474,80565
+Benzene,id_fuente_emisora,69091,11474,80565
+Benzene,sistema,51701,28864,80565
+Benzene,ciiu6,48561,32004,80565
+Benzene,id_ciiu6,37684,42881,80565
+Benzene,tipo_fuente,48549,32016,80565
+Benzene,combustible_primario,48549,32016,80565
+Benzene,ccf8_primario,20238,60327,80565
+Benzene,combustible_secundario,10117,70448,80565
+Benzene,ccf8_secundario,438,80127,80565
+Benzene,ccf8_materia_prima,52,80513,80565
+Benzene,emision_primario,37684,42881,80565
+Benzene,emision_secundario,37684,42881,80565
+Benzene,emision_materia_prima,37684,42881,80565
+Benzene,ciiu4_antiguo,9361,71204,80565
+Benzene,id_ciiu4_antiguo,9361,71204,80565
+Benzene,rubro_vu_antiguo,9361,71204,80565
+Benzene,Listado 2024,10653,69912,80565
+Benzene,TIPO_DATO_RETC,10653,69912,80565
+Benzene,GE,10653,69912,80565
+Benzene,unidad.1,10653,69912,80565
+Benzene,potencia_kw,3534,77031,80565
+Benzene,combustion,10641,69924,80565
+Benzene,fuente_esquema,80565,0,80565
+Benzene,declaracion_id,10877,69688,80565
+Benzene,ciiu6_id,10877,69688,80565
+Benzene,rubro,10877,69688,80565
+Benzene,rubro_id,10877,69688,80565
+Benzene,codigo_unico_territorial,10877,69688,80565
+Benzene,source_id,10877,69688,80565
+Benzene,codigo_fuente,10877,69688,80565
+Benzene,ccf8_procesos,45,80520,80565
+Benzene,emision_combustible_primario,10877,69688,80565
+Benzene,emision_combustible_secundario,10877,69688,80565
+Benzene,emision_procesos,10877,69688,80565
+Benzene,emision_total,10877,69688,80565
+Benzene,origen_data,10877,69688,80565
+Benzene,emision_retc,10877,69688,80565
+Benzene,tipo_outlier,10877,69688,80565
+Benzene,grupo_canonico,80565,0,80565
+Black Carbon,año,11332,0,11332
+Black Carbon,razon_social,11201,131,11332
+Black Carbon,rut_razon_social,11332,0,11332
+Black Carbon,nombre_establecimiento,11332,0,11332
+Black Carbon,id_vu,11332,0,11332
+Black Carbon,ciiu4,11332,0,11332
+Black Carbon,id_ciiu4,11332,0,11332
+Black Carbon,rubro_vu,0,11332,11332
+Black Carbon,id_rubro_vu,0,11332,11332
+Black Carbon,region,11332,0,11332
+Black Carbon,provincia,11332,0,11332
+Black Carbon,comuna,11332,0,11332
+Black Carbon,id_comuna,0,11332,11332
+Black Carbon,latitud,11332,0,11332
+Black Carbon,longitud,11332,0,11332
+Black Carbon,cantidad_toneladas,0,11332,11332
+Black Carbon,unidad,0,11332,11332
+Black Carbon,contaminantes,11332,0,11332
+Black Carbon,id_contaminantes,11332,0,11332
+Black Carbon,fuente_emisora_general,0,11332,11332
+Black Carbon,id_fuente_emisora,0,11332,11332
+Black Carbon,sistema,0,11332,11332
+Black Carbon,ciiu6,11332,0,11332
+Black Carbon,id_ciiu6,0,11332,11332
+Black Carbon,tipo_fuente,11332,0,11332
+Black Carbon,combustible_primario,11332,0,11332
+Black Carbon,ccf8_primario,11332,0,11332
+Black Carbon,combustible_secundario,251,11081,11332
+Black Carbon,ccf8_secundario,243,11089,11332
+Black Carbon,ccf8_materia_prima,0,11332,11332
+Black Carbon,emision_primario,0,11332,11332
+Black Carbon,emision_secundario,0,11332,11332
+Black Carbon,emision_materia_prima,0,11332,11332
+Black Carbon,ciiu4_antiguo,0,11332,11332
+Black Carbon,id_ciiu4_antiguo,0,11332,11332
+Black Carbon,rubro_vu_antiguo,0,11332,11332
+Black Carbon,Listado 2024,0,11332,11332
+Black Carbon,TIPO_DATO_RETC,0,11332,11332
+Black Carbon,GE,0,11332,11332
+Black Carbon,unidad.1,0,11332,11332
+Black Carbon,potencia_kw,0,11332,11332
+Black Carbon,combustion,0,11332,11332
+Black Carbon,fuente_esquema,11332,0,11332
+Black Carbon,declaracion_id,11332,0,11332
+Black Carbon,ciiu6_id,11332,0,11332
+Black Carbon,rubro,11332,0,11332
+Black Carbon,rubro_id,11332,0,11332
+Black Carbon,codigo_unico_territorial,11332,0,11332
+Black Carbon,source_id,11332,0,11332
+Black Carbon,codigo_fuente,11332,0,11332
+Black Carbon,ccf8_procesos,62,11270,11332
+Black Carbon,emision_combustible_primario,11332,0,11332
+Black Carbon,emision_combustible_secundario,11332,0,11332
+Black Carbon,emision_procesos,11332,0,11332
+Black Carbon,emision_total,11332,0,11332
+Black Carbon,origen_data,11332,0,11332
+Black Carbon,emision_retc,11332,0,11332
+Black Carbon,tipo_outlier,11332,0,11332
+Black Carbon,grupo_canonico,11332,0,11332
+Carbon dioxide (CO2),año,113331,0,113331
+Carbon dioxide (CO2),razon_social,112073,1258,113331
+Carbon dioxide (CO2),rut_razon_social,95397,17934,113331
+Carbon dioxide (CO2),nombre_establecimiento,96843,16488,113331
+Carbon dioxide (CO2),id_vu,113331,0,113331
+Carbon dioxide (CO2),ciiu4,91286,22045,113331
+Carbon dioxide (CO2),id_ciiu4,91286,22045,113331
+Carbon dioxide (CO2),rubro_vu,67641,45690,113331
+Carbon dioxide (CO2),id_rubro_vu,67641,45690,113331
+Carbon dioxide (CO2),region,113331,0,113331
+Carbon dioxide (CO2),provincia,113331,0,113331
+Carbon dioxide (CO2),comuna,113331,0,113331
+Carbon dioxide (CO2),id_comuna,101375,11956,113331
+Carbon dioxide (CO2),latitud,93764,19567,113331
+Carbon dioxide (CO2),longitud,94968,18363,113331
+Carbon dioxide (CO2),cantidad_toneladas,101370,11961,113331
+Carbon dioxide (CO2),unidad,100646,12685,113331
+Carbon dioxide (CO2),contaminantes,113331,0,113331
+Carbon dioxide (CO2),id_contaminantes,113331,0,113331
+Carbon dioxide (CO2),fuente_emisora_general,77535,35796,113331
+Carbon dioxide (CO2),id_fuente_emisora,77535,35796,113331
+Carbon dioxide (CO2),sistema,56943,56388,113331
+Carbon dioxide (CO2),ciiu6,53192,60139,113331
+Carbon dioxide (CO2),id_ciiu6,41236,72095,113331
+Carbon dioxide (CO2),tipo_fuente,53184,60147,113331
+Carbon dioxide (CO2),combustible_primario,53182,60149,113331
+Carbon dioxide (CO2),ccf8_primario,22202,91129,113331
+Carbon dioxide (CO2),combustible_secundario,11663,101668,113331
+Carbon dioxide (CO2),ccf8_secundario,496,112835,113331
+Carbon dioxide (CO2),ccf8_materia_prima,62,113269,113331
+Carbon dioxide (CO2),emision_primario,41234,72097,113331
+Carbon dioxide (CO2),emision_secundario,41236,72095,113331
+Carbon dioxide (CO2),emision_materia_prima,41236,72095,113331
+Carbon dioxide (CO2),ciiu4_antiguo,10249,103082,113331
+Carbon dioxide (CO2),id_ciiu4_antiguo,10249,103082,113331
+Carbon dioxide (CO2),rubro_vu_antiguo,10249,103082,113331
+Carbon dioxide (CO2),Listado 2024,11689,101642,113331
+Carbon dioxide (CO2),TIPO_DATO_RETC,11689,101642,113331
+Carbon dioxide (CO2),GE,11689,101642,113331
+Carbon dioxide (CO2),unidad.1,11689,101642,113331
+Carbon dioxide (CO2),potencia_kw,3553,109778,113331
+Carbon dioxide (CO2),combustion,11682,101649,113331
+Carbon dioxide (CO2),fuente_esquema,113331,0,113331
+Carbon dioxide (CO2),declaracion_id,11955,101376,113331
+Carbon dioxide (CO2),ciiu6_id,11956,101375,113331
+Carbon dioxide (CO2),rubro,11956,101375,113331
+Carbon dioxide (CO2),rubro_id,11956,101375,113331
+Carbon dioxide (CO2),codigo_unico_territorial,11956,101375,113331
+Carbon dioxide (CO2),source_id,11956,101375,113331
+Carbon dioxide (CO2),codigo_fuente,11955,101376,113331
+Carbon dioxide (CO2),ccf8_procesos,62,113269,113331
+Carbon dioxide (CO2),emision_combustible_primario,11955,101376,113331
+Carbon dioxide (CO2),emision_combustible_secundario,11955,101376,113331
+Carbon dioxide (CO2),emision_procesos,11955,101376,113331
+Carbon dioxide (CO2),emision_total,11955,101376,113331
+Carbon dioxide (CO2),origen_data,11956,101375,113331
+Carbon dioxide (CO2),emision_retc,11956,101375,113331
+Carbon dioxide (CO2),tipo_outlier,11956,101375,113331
+Carbon dioxide (CO2),grupo_canonico,113331,0,113331
+Carbon monoxide (CO),año,115463,0,115463
+Carbon monoxide (CO),razon_social,114201,1262,115463
+Carbon monoxide (CO),rut_razon_social,97291,18172,115463
+Carbon monoxide (CO),nombre_establecimiento,98790,16673,115463
+Carbon monoxide (CO),id_vu,115463,0,115463
+Carbon monoxide (CO),ciiu4,93161,22302,115463
+Carbon monoxide (CO),id_ciiu4,93161,22302,115463
+Carbon monoxide (CO),rubro_vu,69451,46012,115463
+Carbon monoxide (CO),id_rubro_vu,69451,46012,115463
+Carbon monoxide (CO),region,115463,0,115463
+Carbon monoxide (CO),provincia,115463,0,115463
+Carbon monoxide (CO),comuna,115463,0,115463
+Carbon monoxide (CO),id_comuna,103441,12022,115463
+Carbon monoxide (CO),latitud,95635,19828,115463
+Carbon monoxide (CO),longitud,96847,18616,115463
+Carbon monoxide (CO),cantidad_toneladas,103431,12032,115463
+Carbon monoxide (CO),unidad,102711,12752,115463
+Carbon monoxide (CO),contaminantes,115463,0,115463
+Carbon monoxide (CO),id_contaminantes,115463,0,115463
+Carbon monoxide (CO),fuente_emisora_general,79347,36116,115463
+Carbon monoxide (CO),id_fuente_emisora,79347,36116,115463
+Carbon monoxide (CO),sistema,57488,57975,115463
+Carbon monoxide (CO),ciiu6,53511,61952,115463
+Carbon monoxide (CO),id_ciiu6,41489,73974,115463
+Carbon monoxide (CO),tipo_fuente,53438,62025,115463
+Carbon monoxide (CO),combustible_primario,53436,62027,115463
+Carbon monoxide (CO),ccf8_primario,22318,93145,115463
+Carbon monoxide (CO),combustible_secundario,11717,103746,115463
+Carbon monoxide (CO),ccf8_secundario,520,114943,115463
+Carbon monoxide (CO),ccf8_materia_prima,62,115401,115463
+Carbon monoxide (CO),emision_primario,41487,73976,115463
+Carbon monoxide (CO),emision_secundario,41489,73974,115463
+Carbon monoxide (CO),emision_materia_prima,41489,73974,115463
+Carbon monoxide (CO),ciiu4_antiguo,10365,105098,115463
+Carbon monoxide (CO),id_ciiu4_antiguo,10365,105098,115463
+Carbon monoxide (CO),rubro_vu_antiguo,10365,105098,115463
+Carbon monoxide (CO),Listado 2024,11688,103775,115463
+Carbon monoxide (CO),TIPO_DATO_RETC,11688,103775,115463
+Carbon monoxide (CO),GE,11688,103775,115463
+Carbon monoxide (CO),unidad.1,11688,103775,115463
+Carbon monoxide (CO),potencia_kw,3552,111911,115463
+Carbon monoxide (CO),combustion,11682,103781,115463
+Carbon monoxide (CO),fuente_esquema,115463,0,115463
+Carbon monoxide (CO),declaracion_id,11955,103508,115463
+Carbon monoxide (CO),ciiu6_id,12022,103441,115463
+Carbon monoxide (CO),rubro,12022,103441,115463
+Carbon monoxide (CO),rubro_id,12022,103441,115463
+Carbon monoxide (CO),codigo_unico_territorial,12022,103441,115463
+Carbon monoxide (CO),source_id,12022,103441,115463
+Carbon monoxide (CO),codigo_fuente,11955,103508,115463
+Carbon monoxide (CO),ccf8_procesos,62,115401,115463
+Carbon monoxide (CO),emision_combustible_primario,11955,103508,115463
+Carbon monoxide (CO),emision_combustible_secundario,11955,103508,115463
+Carbon monoxide (CO),emision_procesos,11955,103508,115463
+Carbon monoxide (CO),emision_total,11955,103508,115463
+Carbon monoxide (CO),origen_data,12022,103441,115463
+Carbon monoxide (CO),emision_retc,12022,103441,115463
+Carbon monoxide (CO),tipo_outlier,12022,103441,115463
+Carbon monoxide (CO),grupo_canonico,115463,0,115463
+Lead (Pb),año,18987,0,18987
+Lead (Pb),razon_social,18890,97,18987
+Lead (Pb),rut_razon_social,18518,469,18987
+Lead (Pb),nombre_establecimiento,18457,530,18987
+Lead (Pb),id_vu,18987,0,18987
+Lead (Pb),ciiu4,18972,15,18987
+Lead (Pb),id_ciiu4,18972,15,18987
+Lead (Pb),rubro_vu,11684,7303,18987
+Lead (Pb),id_rubro_vu,11684,7303,18987
+Lead (Pb),region,18987,0,18987
+Lead (Pb),provincia,18987,0,18987
+Lead (Pb),comuna,18987,0,18987
+Lead (Pb),id_comuna,15462,3525,18987
+Lead (Pb),latitud,18508,479,18987
+Lead (Pb),longitud,18508,479,18987
+Lead (Pb),cantidad_toneladas,15462,3525,18987
+Lead (Pb),unidad,15426,3561,18987
+Lead (Pb),contaminantes,18987,0,18987
+Lead (Pb),id_contaminantes,18987,0,18987
+Lead (Pb),fuente_emisora_general,15118,3869,18987
+Lead (Pb),id_fuente_emisora,15118,3869,18987
+Lead (Pb),sistema,13689,5298,18987
+Lead (Pb),ciiu6,16450,2537,18987
+Lead (Pb),id_ciiu6,12925,6062,18987
+Lead (Pb),tipo_fuente,16440,2547,18987
+Lead (Pb),combustible_primario,16440,2547,18987
+Lead (Pb),ccf8_primario,6882,12105,18987
+Lead (Pb),combustible_secundario,3976,15011,18987
+Lead (Pb),ccf8_secundario,456,18531,18987
+Lead (Pb),ccf8_materia_prima,51,18936,18987
+Lead (Pb),emision_primario,12925,6062,18987
+Lead (Pb),emision_secundario,12925,6062,18987
+Lead (Pb),emision_materia_prima,12925,6062,18987
+Lead (Pb),ciiu4_antiguo,3357,15630,18987
+Lead (Pb),id_ciiu4_antiguo,3357,15630,18987
+Lead (Pb),rubro_vu_antiguo,3357,15630,18987
+Lead (Pb),Listado 2024,3763,15224,18987
+Lead (Pb),TIPO_DATO_RETC,3763,15224,18987
+Lead (Pb),GE,3763,15224,18987
+Lead (Pb),unidad.1,3763,15224,18987
+Lead (Pb),potencia_kw,1,18986,18987
+Lead (Pb),combustion,3753,15234,18987
+Lead (Pb),fuente_esquema,18987,0,18987
+Lead (Pb),declaracion_id,3525,15462,18987
+Lead (Pb),ciiu6_id,3525,15462,18987
+Lead (Pb),rubro,3525,15462,18987
+Lead (Pb),rubro_id,3525,15462,18987
+Lead (Pb),codigo_unico_territorial,3525,15462,18987
+Lead (Pb),source_id,3525,15462,18987
+Lead (Pb),codigo_fuente,3525,15462,18987
+Lead (Pb),ccf8_procesos,44,18943,18987
+Lead (Pb),emision_combustible_primario,3525,15462,18987
+Lead (Pb),emision_combustible_secundario,3525,15462,18987
+Lead (Pb),emision_procesos,3525,15462,18987
+Lead (Pb),emision_total,3525,15462,18987
+Lead (Pb),origen_data,3525,15462,18987
+Lead (Pb),emision_retc,3525,15462,18987
+Lead (Pb),tipo_outlier,3525,15462,18987
+Lead (Pb),grupo_canonico,18987,0,18987
+Mercury (Hg),año,111887,0,111887
+Mercury (Hg),razon_social,110935,952,111887
+Mercury (Hg),rut_razon_social,94963,16924,111887
+Mercury (Hg),nombre_establecimiento,96228,15659,111887
+Mercury (Hg),id_vu,111887,0,111887
+Mercury (Hg),ciiu4,89592,22295,111887
+Mercury (Hg),id_ciiu4,89592,22295,111887
+Mercury (Hg),rubro_vu,66086,45801,111887
+Mercury (Hg),id_rubro_vu,66086,45801,111887
+Mercury (Hg),region,111887,0,111887
+Mercury (Hg),provincia,111887,0,111887
+Mercury (Hg),comuna,111887,0,111887
+Mercury (Hg),id_comuna,99947,11940,111887
+Mercury (Hg),latitud,93340,18547,111887
+Mercury (Hg),longitud,94552,17335,111887
+Mercury (Hg),cantidad_toneladas,99947,11940,111887
+Mercury (Hg),unidad,96536,15351,111887
+Mercury (Hg),contaminantes,111887,0,111887
+Mercury (Hg),id_contaminantes,111887,0,111887
+Mercury (Hg),fuente_emisora_general,77514,34373,111887
+Mercury (Hg),id_fuente_emisora,77514,34373,111887
+Mercury (Hg),sistema,57018,54869,111887
+Mercury (Hg),ciiu6,53278,58609,111887
+Mercury (Hg),id_ciiu6,41338,70549,111887
+Mercury (Hg),tipo_fuente,53250,58637,111887
+Mercury (Hg),combustible_primario,53250,58637,111887
+Mercury (Hg),ccf8_primario,22296,89591,111887
+Mercury (Hg),combustible_secundario,3603,108284,111887
+Mercury (Hg),ccf8_secundario,520,111367,111887
+Mercury (Hg),ccf8_materia_prima,58,111829,111887
+Mercury (Hg),emision_primario,41336,70551,111887
+Mercury (Hg),emision_secundario,41338,70549,111887
+Mercury (Hg),emision_materia_prima,41338,70549,111887
+Mercury (Hg),ciiu4_antiguo,10356,101531,111887
+Mercury (Hg),id_ciiu4_antiguo,10356,101531,111887
+Mercury (Hg),rubro_vu_antiguo,10356,101531,111887
+Mercury (Hg),Listado 2024,11566,100321,111887
+Mercury (Hg),TIPO_DATO_RETC,11566,100321,111887
+Mercury (Hg),GE,11566,100321,111887
+Mercury (Hg),unidad.1,11566,100321,111887
+Mercury (Hg),potencia_kw,3546,108341,111887
+Mercury (Hg),combustion,11538,100349,111887
+Mercury (Hg),fuente_esquema,111887,0,111887
+Mercury (Hg),declaracion_id,11940,99947,111887
+Mercury (Hg),ciiu6_id,11940,99947,111887
+Mercury (Hg),rubro,11940,99947,111887
+Mercury (Hg),rubro_id,11940,99947,111887
+Mercury (Hg),codigo_unico_territorial,11940,99947,111887
+Mercury (Hg),source_id,11940,99947,111887
+Mercury (Hg),codigo_fuente,11940,99947,111887
+Mercury (Hg),ccf8_procesos,57,111830,111887
+Mercury (Hg),emision_combustible_primario,11940,99947,111887
+Mercury (Hg),emision_combustible_secundario,11940,99947,111887
+Mercury (Hg),emision_procesos,11940,99947,111887
+Mercury (Hg),emision_total,11940,99947,111887
+Mercury (Hg),origen_data,11940,99947,111887
+Mercury (Hg),emision_retc,11940,99947,111887
+Mercury (Hg),tipo_outlier,11940,99947,111887
+Mercury (Hg),grupo_canonico,111887,0,111887
+Methane,año,4352,0,4352
+Methane,razon_social,4314,38,4352
+Methane,rut_razon_social,4352,0,4352
+Methane,nombre_establecimiento,4352,0,4352
+Methane,id_vu,4352,0,4352
+Methane,ciiu4,4352,0,4352
+Methane,id_ciiu4,4352,0,4352
+Methane,rubro_vu,0,4352,4352
+Methane,id_rubro_vu,0,4352,4352
+Methane,region,4352,0,4352
+Methane,provincia,4352,0,4352
+Methane,comuna,4352,0,4352
+Methane,id_comuna,0,4352,4352
+Methane,latitud,4352,0,4352
+Methane,longitud,4352,0,4352
+Methane,cantidad_toneladas,0,4352,4352
+Methane,unidad,0,4352,4352
+Methane,contaminantes,4352,0,4352
+Methane,id_contaminantes,4352,0,4352
+Methane,fuente_emisora_general,0,4352,4352
+Methane,id_fuente_emisora,0,4352,4352
+Methane,sistema,0,4352,4352
+Methane,ciiu6,4352,0,4352
+Methane,id_ciiu6,0,4352,4352
+Methane,tipo_fuente,4352,0,4352
+Methane,combustible_primario,4352,0,4352
+Methane,ccf8_primario,4352,0,4352
+Methane,combustible_secundario,266,4086,4352
+Methane,ccf8_secundario,258,4094,4352
+Methane,ccf8_materia_prima,0,4352,4352
+Methane,emision_primario,0,4352,4352
+Methane,emision_secundario,0,4352,4352
+Methane,emision_materia_prima,0,4352,4352
+Methane,ciiu4_antiguo,0,4352,4352
+Methane,id_ciiu4_antiguo,0,4352,4352
+Methane,rubro_vu_antiguo,0,4352,4352
+Methane,Listado 2024,0,4352,4352
+Methane,TIPO_DATO_RETC,0,4352,4352
+Methane,GE,0,4352,4352
+Methane,unidad.1,0,4352,4352
+Methane,potencia_kw,0,4352,4352
+Methane,combustion,0,4352,4352
+Methane,fuente_esquema,4352,0,4352
+Methane,declaracion_id,4352,0,4352
+Methane,ciiu6_id,4352,0,4352
+Methane,rubro,4352,0,4352
+Methane,rubro_id,4352,0,4352
+Methane,codigo_unico_territorial,4352,0,4352
+Methane,source_id,4352,0,4352
+Methane,codigo_fuente,4352,0,4352
+Methane,ccf8_procesos,62,4290,4352
+Methane,emision_combustible_primario,4352,0,4352
+Methane,emision_combustible_secundario,4352,0,4352
+Methane,emision_procesos,4352,0,4352
+Methane,emision_total,4352,0,4352
+Methane,origen_data,4352,0,4352
+Methane,emision_retc,4352,0,4352
+Methane,tipo_outlier,4352,0,4352
+Methane,grupo_canonico,4352,0,4352
+Nitrogen oxides (NOx),año,100700,0,100700
+Nitrogen oxides (NOx),razon_social,99443,1257,100700
+Nitrogen oxides (NOx),rut_razon_social,82585,18115,100700
+Nitrogen oxides (NOx),nombre_establecimiento,84047,16653,100700
+Nitrogen oxides (NOx),id_vu,100700,0,100700
+Nitrogen oxides (NOx),ciiu4,78399,22301,100700
+Nitrogen oxides (NOx),id_ciiu4,78399,22301,100700
+Nitrogen oxides (NOx),rubro_vu,60694,40006,100700
+Nitrogen oxides (NOx),id_rubro_vu,60694,40006,100700
+Nitrogen oxides (NOx),region,100700,0,100700
+Nitrogen oxides (NOx),provincia,100700,0,100700
+Nitrogen oxides (NOx),comuna,100700,0,100700
+Nitrogen oxides (NOx),id_comuna,91550,9150,100700
+Nitrogen oxides (NOx),latitud,80938,19762,100700
+Nitrogen oxides (NOx),longitud,82150,18550,100700
+Nitrogen oxides (NOx),cantidad_toneladas,91541,9159,100700
+Nitrogen oxides (NOx),unidad,90824,9876,100700
+Nitrogen oxides (NOx),contaminantes,100700,0,100700
+Nitrogen oxides (NOx),id_contaminantes,100700,0,100700
+Nitrogen oxides (NOx),fuente_emisora_general,67457,33243,100700
+Nitrogen oxides (NOx),id_fuente_emisora,67457,33243,100700
+Nitrogen oxides (NOx),sistema,46605,54095,100700
+Nitrogen oxides (NOx),ciiu6,39990,60710,100700
+Nitrogen oxides (NOx),id_ciiu6,30840,69860,100700
+Nitrogen oxides (NOx),tipo_fuente,39892,60808,100700
+Nitrogen oxides (NOx),combustible_primario,39890,60810,100700
+Nitrogen oxides (NOx),ccf8_primario,16655,84045,100700
+Nitrogen oxides (NOx),combustible_secundario,8585,92115,100700
+Nitrogen oxides (NOx),ccf8_secundario,495,100205,100700
+Nitrogen oxides (NOx),ccf8_materia_prima,47,100653,100700
+Nitrogen oxides (NOx),emision_primario,30838,69862,100700
+Nitrogen oxides (NOx),emision_secundario,30840,69860,100700
+Nitrogen oxides (NOx),emision_materia_prima,30840,69860,100700
+Nitrogen oxides (NOx),ciiu4_antiguo,7600,93100,100700
+Nitrogen oxides (NOx),id_ciiu4_antiguo,7600,93100,100700
+Nitrogen oxides (NOx),rubro_vu_antiguo,7600,93100,100700
+Nitrogen oxides (NOx),Listado 2024,8555,92145,100700
+Nitrogen oxides (NOx),TIPO_DATO_RETC,8555,92145,100700
+Nitrogen oxides (NOx),GE,8555,92145,100700
+Nitrogen oxides (NOx),unidad.1,8555,92145,100700
+Nitrogen oxides (NOx),potencia_kw,3552,97148,100700
+Nitrogen oxides (NOx),combustion,8550,92150,100700
+Nitrogen oxides (NOx),fuente_esquema,100700,0,100700
+Nitrogen oxides (NOx),declaracion_id,9057,91643,100700
+Nitrogen oxides (NOx),ciiu6_id,9150,91550,100700
+Nitrogen oxides (NOx),rubro,9150,91550,100700
+Nitrogen oxides (NOx),rubro_id,9150,91550,100700
+Nitrogen oxides (NOx),codigo_unico_territorial,9150,91550,100700
+Nitrogen oxides (NOx),source_id,9111,91589,100700
+Nitrogen oxides (NOx),codigo_fuente,9096,91604,100700
+Nitrogen oxides (NOx),ccf8_procesos,52,100648,100700
+Nitrogen oxides (NOx),emision_combustible_primario,9057,91643,100700
+Nitrogen oxides (NOx),emision_combustible_secundario,9057,91643,100700
+Nitrogen oxides (NOx),emision_procesos,9057,91643,100700
+Nitrogen oxides (NOx),emision_total,9057,91643,100700
+Nitrogen oxides (NOx),origen_data,9150,91550,100700
+Nitrogen oxides (NOx),emision_retc,9150,91550,100700
+Nitrogen oxides (NOx),tipo_outlier,9150,91550,100700
+Nitrogen oxides (NOx),grupo_canonico,100700,0,100700
+Nitrous oxide (N2O),año,3526,0,3526
+Nitrous oxide (N2O),razon_social,3507,19,3526
+Nitrous oxide (N2O),rut_razon_social,3526,0,3526
+Nitrous oxide (N2O),nombre_establecimiento,3526,0,3526
+Nitrous oxide (N2O),id_vu,3526,0,3526
+Nitrous oxide (N2O),ciiu4,3526,0,3526
+Nitrous oxide (N2O),id_ciiu4,3526,0,3526
+Nitrous oxide (N2O),rubro_vu,0,3526,3526
+Nitrous oxide (N2O),id_rubro_vu,0,3526,3526
+Nitrous oxide (N2O),region,3526,0,3526
+Nitrous oxide (N2O),provincia,3526,0,3526
+Nitrous oxide (N2O),comuna,3526,0,3526
+Nitrous oxide (N2O),id_comuna,0,3526,3526
+Nitrous oxide (N2O),latitud,3526,0,3526
+Nitrous oxide (N2O),longitud,3526,0,3526
+Nitrous oxide (N2O),cantidad_toneladas,0,3526,3526
+Nitrous oxide (N2O),unidad,0,3526,3526
+Nitrous oxide (N2O),contaminantes,3526,0,3526
+Nitrous oxide (N2O),id_contaminantes,3526,0,3526
+Nitrous oxide (N2O),fuente_emisora_general,0,3526,3526
+Nitrous oxide (N2O),id_fuente_emisora,0,3526,3526
+Nitrous oxide (N2O),sistema,0,3526,3526
+Nitrous oxide (N2O),ciiu6,3526,0,3526
+Nitrous oxide (N2O),id_ciiu6,0,3526,3526
+Nitrous oxide (N2O),tipo_fuente,3526,0,3526
+Nitrous oxide (N2O),combustible_primario,3526,0,3526
+Nitrous oxide (N2O),ccf8_primario,3526,0,3526
+Nitrous oxide (N2O),combustible_secundario,241,3285,3526
+Nitrous oxide (N2O),ccf8_secundario,237,3289,3526
+Nitrous oxide (N2O),ccf8_materia_prima,0,3526,3526
+Nitrous oxide (N2O),emision_primario,0,3526,3526
+Nitrous oxide (N2O),emision_secundario,0,3526,3526
+Nitrous oxide (N2O),emision_materia_prima,0,3526,3526
+Nitrous oxide (N2O),ciiu4_antiguo,0,3526,3526
+Nitrous oxide (N2O),id_ciiu4_antiguo,0,3526,3526
+Nitrous oxide (N2O),rubro_vu_antiguo,0,3526,3526
+Nitrous oxide (N2O),Listado 2024,0,3526,3526
+Nitrous oxide (N2O),TIPO_DATO_RETC,0,3526,3526
+Nitrous oxide (N2O),GE,0,3526,3526
+Nitrous oxide (N2O),unidad.1,0,3526,3526
+Nitrous oxide (N2O),potencia_kw,0,3526,3526
+Nitrous oxide (N2O),combustion,0,3526,3526
+Nitrous oxide (N2O),fuente_esquema,3526,0,3526
+Nitrous oxide (N2O),declaracion_id,3526,0,3526
+Nitrous oxide (N2O),ciiu6_id,3526,0,3526
+Nitrous oxide (N2O),rubro,3526,0,3526
+Nitrous oxide (N2O),rubro_id,3526,0,3526
+Nitrous oxide (N2O),codigo_unico_territorial,3526,0,3526
+Nitrous oxide (N2O),source_id,3526,0,3526
+Nitrous oxide (N2O),codigo_fuente,3526,0,3526
+Nitrous oxide (N2O),ccf8_procesos,46,3480,3526
+Nitrous oxide (N2O),emision_combustible_primario,3526,0,3526
+Nitrous oxide (N2O),emision_combustible_secundario,3526,0,3526
+Nitrous oxide (N2O),emision_procesos,3526,0,3526
+Nitrous oxide (N2O),emision_total,3526,0,3526
+Nitrous oxide (N2O),origen_data,3526,0,3526
+Nitrous oxide (N2O),emision_retc,3526,0,3526
+Nitrous oxide (N2O),tipo_outlier,3526,0,3526
+Nitrous oxide (N2O),grupo_canonico,3526,0,3526
+PCDD_F,año,68904,0,68904
+PCDD_F,razon_social,67557,1347,68904
+PCDD_F,rut_razon_social,46252,22652,68904
+PCDD_F,nombre_establecimiento,49327,19577,68904
+PCDD_F,id_vu,68904,0,68904
+PCDD_F,ciiu4,40935,27969,68904
+PCDD_F,id_ciiu4,40935,27969,68904
+PCDD_F,rubro_vu,39721,29183,68904
+PCDD_F,id_rubro_vu,39721,29183,68904
+PCDD_F,region,68904,0,68904
+PCDD_F,provincia,68904,0,68904
+PCDD_F,comuna,68904,0,68904
+PCDD_F,id_comuna,68289,615,68904
+PCDD_F,latitud,44359,24545,68904
+PCDD_F,longitud,45776,23128,68904
+PCDD_F,cantidad_toneladas,68289,615,68904
+PCDD_F,unidad,68269,635,68904
+PCDD_F,contaminantes,68904,0,68904
+PCDD_F,id_contaminantes,68904,0,68904
+PCDD_F,fuente_emisora_general,38512,30392,68904
+PCDD_F,id_fuente_emisora,38512,30392,68904
+PCDD_F,sistema,17988,50916,68904
+PCDD_F,ciiu6,2927,65977,68904
+PCDD_F,id_ciiu6,2312,66592,68904
+PCDD_F,tipo_fuente,2908,65996,68904
+PCDD_F,combustible_primario,2906,65998,68904
+PCDD_F,ccf8_primario,1205,67699,68904
+PCDD_F,combustible_secundario,606,68298,68904
+PCDD_F,ccf8_secundario,243,68661,68904
+PCDD_F,ccf8_materia_prima,62,68842,68904
+PCDD_F,emision_primario,2312,66592,68904
+PCDD_F,emision_secundario,2312,66592,68904
+PCDD_F,emision_materia_prima,2312,66592,68904
+PCDD_F,ciiu4_antiguo,592,68312,68904
+PCDD_F,id_ciiu4_antiguo,592,68312,68904
+PCDD_F,rubro_vu_antiguo,592,68312,68904
+PCDD_F,Listado 2024,599,68305,68904
+PCDD_F,TIPO_DATO_RETC,599,68305,68904
+PCDD_F,GE,599,68305,68904
+PCDD_F,unidad.1,599,68305,68904
+PCDD_F,potencia_kw,10,68894,68904
+PCDD_F,combustion,580,68324,68904
+PCDD_F,fuente_esquema,68904,0,68904
+PCDD_F,declaracion_id,615,68289,68904
+PCDD_F,ciiu6_id,615,68289,68904
+PCDD_F,rubro,615,68289,68904
+PCDD_F,rubro_id,615,68289,68904
+PCDD_F,codigo_unico_territorial,615,68289,68904
+PCDD_F,source_id,615,68289,68904
+PCDD_F,codigo_fuente,615,68289,68904
+PCDD_F,ccf8_procesos,54,68850,68904
+PCDD_F,emision_combustible_primario,615,68289,68904
+PCDD_F,emision_combustible_secundario,615,68289,68904
+PCDD_F,emision_procesos,615,68289,68904
+PCDD_F,emision_total,615,68289,68904
+PCDD_F,origen_data,615,68289,68904
+PCDD_F,emision_retc,615,68289,68904
+PCDD_F,tipo_outlier,615,68289,68904
+PCDD_F,grupo_canonico,68904,0,68904
+PM10,año,83237,0,83237
+PM10,razon_social,81990,1247,83237
+PM10,rut_razon_social,64783,18454,83237
+PM10,nombre_establecimiento,65568,17669,83237
+PM10,id_vu,83237,0,83237
+PM10,ciiu4,60559,22678,83237
+PM10,id_ciiu4,60559,22678,83237
+PM10,rubro_vu,51284,31953,83237
+PM10,id_rubro_vu,51284,31953,83237
+PM10,region,83237,0,83237
+PM10,provincia,83237,0,83237
+PM10,comuna,83237,0,83237
+PM10,id_comuna,78640,4597,83237
+PM10,latitud,62959,20278,83237
+PM10,longitud,64265,18972,83237
+PM10,cantidad_toneladas,78640,4597,83237
+PM10,unidad,78550,4687,83237
+PM10,contaminantes,83237,0,83237
+PM10,id_contaminantes,83237,0,83237
+PM10,fuente_emisora_general,53235,30002,83237
+PM10,id_fuente_emisora,53235,30002,83237
+PM10,sistema,32158,51079,83237
+PM10,ciiu6,20882,62355,83237
+PM10,id_ciiu6,16285,66952,83237
+PM10,tipo_fuente,20769,62468,83237
+PM10,combustible_primario,20767,62470,83237
+PM10,ccf8_primario,8729,74508,83237
+PM10,combustible_secundario,5451,77786,83237
+PM10,ccf8_secundario,513,82724,83237
+PM10,ccf8_materia_prima,61,83176,83237
+PM10,emision_primario,16283,66954,83237
+PM10,emision_secundario,16285,66952,83237
+PM10,emision_materia_prima,16285,66952,83237
+PM10,ciiu4_antiguo,4246,78991,83237
+PM10,id_ciiu4_antiguo,4246,78991,83237
+PM10,rubro_vu_antiguo,4246,78991,83237
+PM10,Listado 2024,4678,78559,83237
+PM10,TIPO_DATO_RETC,4678,78559,83237
+PM10,GE,4678,78559,83237
+PM10,unidad.1,4678,78559,83237
+PM10,potencia_kw,11,83226,83237
+PM10,combustion,4677,78560,83237
+PM10,fuente_esquema,83237,0,83237
+PM10,declaracion_id,4485,78752,83237
+PM10,ciiu6_id,4597,78640,83237
+PM10,rubro,4597,78640,83237
+PM10,rubro_id,4597,78640,83237
+PM10,codigo_unico_territorial,4597,78640,83237
+PM10,source_id,4597,78640,83237
+PM10,codigo_fuente,4485,78752,83237
+PM10,ccf8_procesos,61,83176,83237
+PM10,emision_combustible_primario,4485,78752,83237
+PM10,emision_combustible_secundario,4485,78752,83237
+PM10,emision_procesos,4485,78752,83237
+PM10,emision_total,4485,78752,83237
+PM10,origen_data,4597,78640,83237
+PM10,emision_retc,4597,78640,83237
+PM10,tipo_outlier,4597,78640,83237
+PM10,grupo_canonico,83237,0,83237
+PM2.5,año,82359,0,82359
+PM2.5,razon_social,81112,1247,82359
+PM2.5,rut_razon_social,63920,18439,82359
+PM2.5,nombre_establecimiento,64806,17553,82359
+PM2.5,id_vu,82359,0,82359
+PM2.5,ciiu4,59681,22678,82359
+PM2.5,id_ciiu4,59681,22678,82359
+PM2.5,rubro_vu,50482,31877,82359
+PM2.5,id_rubro_vu,50482,31877,82359
+PM2.5,region,82359,0,82359
+PM2.5,provincia,82359,0,82359
+PM2.5,comuna,82359,0,82359
+PM2.5,id_comuna,77838,4521,82359
+PM2.5,latitud,62116,20243,82359
+PM2.5,longitud,63422,18937,82359
+PM2.5,cantidad_toneladas,77838,4521,82359
+PM2.5,unidad,77748,4611,82359
+PM2.5,contaminantes,82359,0,82359
+PM2.5,id_contaminantes,82359,0,82359
+PM2.5,fuente_emisora_general,52433,29926,82359
+PM2.5,id_fuente_emisora,52433,29926,82359
+PM2.5,sistema,31899,50460,82359
+PM2.5,ciiu6,20804,61555,82359
+PM2.5,id_ciiu6,16283,66076,82359
+PM2.5,tipo_fuente,20767,61592,82359
+PM2.5,combustible_primario,20767,61592,82359
+PM2.5,ccf8_primario,8729,73630,82359
+PM2.5,combustible_secundario,5451,76908,82359
+PM2.5,ccf8_secundario,513,81846,82359
+PM2.5,ccf8_materia_prima,59,82300,82359
+PM2.5,emision_primario,16281,66078,82359
+PM2.5,emision_secundario,16283,66076,82359
+PM2.5,emision_materia_prima,16283,66076,82359
+PM2.5,ciiu4_antiguo,4244,78115,82359
+PM2.5,id_ciiu4_antiguo,4244,78115,82359
+PM2.5,rubro_vu_antiguo,4244,78115,82359
+PM2.5,Listado 2024,4678,77681,82359
+PM2.5,TIPO_DATO_RETC,4678,77681,82359
+PM2.5,GE,4678,77681,82359
+PM2.5,unidad.1,4678,77681,82359
+PM2.5,potencia_kw,11,82348,82359
+PM2.5,combustion,4677,77682,82359
+PM2.5,fuente_esquema,82359,0,82359
+PM2.5,declaracion_id,4485,77874,82359
+PM2.5,ciiu6_id,4521,77838,82359
+PM2.5,rubro,4521,77838,82359
+PM2.5,rubro_id,4521,77838,82359
+PM2.5,codigo_unico_territorial,4521,77838,82359
+PM2.5,source_id,4521,77838,82359
+PM2.5,codigo_fuente,4485,77874,82359
+PM2.5,ccf8_procesos,61,82298,82359
+PM2.5,emision_combustible_primario,4485,77874,82359
+PM2.5,emision_combustible_secundario,4485,77874,82359
+PM2.5,emision_procesos,4485,77874,82359
+PM2.5,emision_total,4485,77874,82359
+PM2.5,origen_data,4521,77838,82359
+PM2.5,emision_retc,4521,77838,82359
+PM2.5,tipo_outlier,4521,77838,82359
+PM2.5,grupo_canonico,82359,0,82359
+"Particulate matter (PM, sin tamaño)",año,79891,0,79891
+"Particulate matter (PM, sin tamaño)",razon_social,78675,1216,79891
+"Particulate matter (PM, sin tamaño)",rut_razon_social,61357,18534,79891
+"Particulate matter (PM, sin tamaño)",nombre_establecimiento,61512,18379,79891
+"Particulate matter (PM, sin tamaño)",id_vu,79891,0,79891
+"Particulate matter (PM, sin tamaño)",ciiu4,57215,22676,79891
+"Particulate matter (PM, sin tamaño)",id_ciiu4,57215,22676,79891
+"Particulate matter (PM, sin tamaño)",rubro_vu,50001,29890,79891
+"Particulate matter (PM, sin tamaño)",id_rubro_vu,50001,29890,79891
+"Particulate matter (PM, sin tamaño)",region,79891,0,79891
+"Particulate matter (PM, sin tamaño)",provincia,79891,0,79891
+"Particulate matter (PM, sin tamaño)",comuna,79891,0,79891
+"Particulate matter (PM, sin tamaño)",id_comuna,76033,3858,79891
+"Particulate matter (PM, sin tamaño)",latitud,59513,20378,79891
+"Particulate matter (PM, sin tamaño)",longitud,60819,19072,79891
+"Particulate matter (PM, sin tamaño)",cantidad_toneladas,76024,3867,79891
+"Particulate matter (PM, sin tamaño)",unidad,76007,3884,79891
+"Particulate matter (PM, sin tamaño)",contaminantes,79891,0,79891
+"Particulate matter (PM, sin tamaño)",id_contaminantes,79891,0,79891
+"Particulate matter (PM, sin tamaño)",fuente_emisora_general,50629,29262,79891
+"Particulate matter (PM, sin tamaño)",id_fuente_emisora,50629,29262,79891
+"Particulate matter (PM, sin tamaño)",sistema,27771,52120,79891
+"Particulate matter (PM, sin tamaño)",ciiu6,15318,64573,79891
+"Particulate matter (PM, sin tamaño)",id_ciiu6,11460,68431,79891
+"Particulate matter (PM, sin tamaño)",tipo_fuente,14582,65309,79891
+"Particulate matter (PM, sin tamaño)",combustible_primario,14580,65311,79891
+"Particulate matter (PM, sin tamaño)",ccf8_primario,6116,73775,79891
+"Particulate matter (PM, sin tamaño)",combustible_secundario,4033,75858,79891
+"Particulate matter (PM, sin tamaño)",ccf8_secundario,404,79487,79891
+"Particulate matter (PM, sin tamaño)",ccf8_materia_prima,53,79838,79891
+"Particulate matter (PM, sin tamaño)",emision_primario,11460,68431,79891
+"Particulate matter (PM, sin tamaño)",emision_secundario,11460,68431,79891
+"Particulate matter (PM, sin tamaño)",emision_materia_prima,11460,68431,79891
+"Particulate matter (PM, sin tamaño)",ciiu4_antiguo,2996,76895,79891
+"Particulate matter (PM, sin tamaño)",id_ciiu4_antiguo,2996,76895,79891
+"Particulate matter (PM, sin tamaño)",rubro_vu_antiguo,2996,76895,79891
+"Particulate matter (PM, sin tamaño)",Listado 2024,3356,76535,79891
+"Particulate matter (PM, sin tamaño)",TIPO_DATO_RETC,3356,76535,79891
+"Particulate matter (PM, sin tamaño)",GE,3356,76535,79891
+"Particulate matter (PM, sin tamaño)",unidad.1,3356,76535,79891
+"Particulate matter (PM, sin tamaño)",potencia_kw,0,79891,79891
+"Particulate matter (PM, sin tamaño)",combustion,3356,76535,79891
+"Particulate matter (PM, sin tamaño)",fuente_esquema,79891,0,79891
+"Particulate matter (PM, sin tamaño)",declaracion_id,3122,76769,79891
+"Particulate matter (PM, sin tamaño)",ciiu6_id,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",rubro,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",rubro_id,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",codigo_unico_territorial,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",source_id,3776,76115,79891
+"Particulate matter (PM, sin tamaño)",codigo_fuente,3204,76687,79891
+"Particulate matter (PM, sin tamaño)",ccf8_procesos,42,79849,79891
+"Particulate matter (PM, sin tamaño)",emision_combustible_primario,3122,76769,79891
+"Particulate matter (PM, sin tamaño)",emision_combustible_secundario,3122,76769,79891
+"Particulate matter (PM, sin tamaño)",emision_procesos,3122,76769,79891
+"Particulate matter (PM, sin tamaño)",emision_total,3122,76769,79891
+"Particulate matter (PM, sin tamaño)",origen_data,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",emision_retc,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",tipo_outlier,3858,76033,79891
+"Particulate matter (PM, sin tamaño)",grupo_canonico,79891,0,79891
+Sulfur dioxide (SO2),año,81302,0,81302
+Sulfur dioxide (SO2),razon_social,80145,1157,81302
+Sulfur dioxide (SO2),rut_razon_social,63198,18104,81302
+Sulfur dioxide (SO2),nombre_establecimiento,64681,16621,81302
+Sulfur dioxide (SO2),id_vu,81302,0,81302
+Sulfur dioxide (SO2),ciiu4,59003,22299,81302
+Sulfur dioxide (SO2),id_ciiu4,59003,22299,81302
+Sulfur dioxide (SO2),rubro_vu,49777,31525,81302
+Sulfur dioxide (SO2),id_rubro_vu,49777,31525,81302
+Sulfur dioxide (SO2),region,81302,0,81302
+Sulfur dioxide (SO2),provincia,81302,0,81302
+Sulfur dioxide (SO2),comuna,81302,0,81302
+Sulfur dioxide (SO2),id_comuna,76752,4550,81302
+Sulfur dioxide (SO2),latitud,61558,19744,81302
+Sulfur dioxide (SO2),longitud,62770,18532,81302
+Sulfur dioxide (SO2),cantidad_toneladas,76745,4557,81302
+Sulfur dioxide (SO2),unidad,76665,4637,81302
+Sulfur dioxide (SO2),contaminantes,81302,0,81302
+Sulfur dioxide (SO2),id_contaminantes,81302,0,81302
+Sulfur dioxide (SO2),fuente_emisora_general,52663,28639,81302
+Sulfur dioxide (SO2),id_fuente_emisora,52663,28639,81302
+Sulfur dioxide (SO2),sistema,31940,49362,81302
+Sulfur dioxide (SO2),ciiu6,20697,60605,81302
+Sulfur dioxide (SO2),id_ciiu6,16147,65155,81302
+Sulfur dioxide (SO2),tipo_fuente,20623,60679,81302
+Sulfur dioxide (SO2),combustible_primario,20619,60683,81302
+Sulfur dioxide (SO2),ccf8_primario,8716,72586,81302
+Sulfur dioxide (SO2),combustible_secundario,8862,72440,81302
+Sulfur dioxide (SO2),ccf8_secundario,518,80784,81302
+Sulfur dioxide (SO2),ccf8_materia_prima,62,81240,81302
+Sulfur dioxide (SO2),emision_primario,16143,65159,81302
+Sulfur dioxide (SO2),emision_secundario,16145,65157,81302
+Sulfur dioxide (SO2),emision_materia_prima,16145,65157,81302
+Sulfur dioxide (SO2),ciiu4_antiguo,4241,77061,81302
+Sulfur dioxide (SO2),id_ciiu4_antiguo,4241,77061,81302
+Sulfur dioxide (SO2),rubro_vu_antiguo,4241,77061,81302
+Sulfur dioxide (SO2),Listado 2024,4676,76626,81302
+Sulfur dioxide (SO2),TIPO_DATO_RETC,4676,76626,81302
+Sulfur dioxide (SO2),GE,4676,76626,81302
+Sulfur dioxide (SO2),unidad.1,4676,76626,81302
+Sulfur dioxide (SO2),potencia_kw,1,81301,81302
+Sulfur dioxide (SO2),combustion,4675,76627,81302
+Sulfur dioxide (SO2),fuente_esquema,81302,0,81302
+Sulfur dioxide (SO2),declaracion_id,4477,76825,81302
+Sulfur dioxide (SO2),ciiu6_id,4550,76752,81302
+Sulfur dioxide (SO2),rubro,4550,76752,81302
+Sulfur dioxide (SO2),rubro_id,4550,76752,81302
+Sulfur dioxide (SO2),codigo_unico_territorial,4550,76752,81302
+Sulfur dioxide (SO2),source_id,4477,76825,81302
+Sulfur dioxide (SO2),codigo_fuente,4550,76752,81302
+Sulfur dioxide (SO2),ccf8_procesos,62,81240,81302
+Sulfur dioxide (SO2),emision_combustible_primario,4477,76825,81302
+Sulfur dioxide (SO2),emision_combustible_secundario,4477,76825,81302
+Sulfur dioxide (SO2),emision_procesos,4477,76825,81302
+Sulfur dioxide (SO2),emision_total,4477,76825,81302
+Sulfur dioxide (SO2),origen_data,4550,76752,81302
+Sulfur dioxide (SO2),emision_retc,4550,76752,81302
+Sulfur dioxide (SO2),tipo_outlier,4550,76752,81302
+Sulfur dioxide (SO2),grupo_canonico,81302,0,81302
+Sulfur oxides (SOx) [familia],año,14947,0,14947
+Sulfur oxides (SOx) [familia],razon_social,14838,109,14947
+Sulfur oxides (SOx) [familia],rut_razon_social,14947,0,14947
+Sulfur oxides (SOx) [familia],nombre_establecimiento,14895,52,14947
+Sulfur oxides (SOx) [familia],id_vu,14947,0,14947
+Sulfur oxides (SOx) [familia],ciiu4,14947,0,14947
+Sulfur oxides (SOx) [familia],id_ciiu4,14947,0,14947
+Sulfur oxides (SOx) [familia],rubro_vu,0,14947,14947
+Sulfur oxides (SOx) [familia],id_rubro_vu,0,14947,14947
+Sulfur oxides (SOx) [familia],region,14947,0,14947
+Sulfur oxides (SOx) [familia],provincia,14947,0,14947
+Sulfur oxides (SOx) [familia],comuna,14947,0,14947
+Sulfur oxides (SOx) [familia],id_comuna,7215,7732,14947
+Sulfur oxides (SOx) [familia],latitud,14947,0,14947
+Sulfur oxides (SOx) [familia],longitud,14947,0,14947
+Sulfur oxides (SOx) [familia],cantidad_toneladas,7215,7732,14947
+Sulfur oxides (SOx) [familia],unidad,7215,7732,14947
+Sulfur oxides (SOx) [familia],contaminantes,14947,0,14947
+Sulfur oxides (SOx) [familia],id_contaminantes,14947,0,14947
+Sulfur oxides (SOx) [familia],fuente_emisora_general,7211,7736,14947
+Sulfur oxides (SOx) [familia],id_fuente_emisora,7211,7736,14947
+Sulfur oxides (SOx) [familia],sistema,7215,7732,14947
+Sulfur oxides (SOx) [familia],ciiu6,14947,0,14947
+Sulfur oxides (SOx) [familia],id_ciiu6,7215,7732,14947
+Sulfur oxides (SOx) [familia],tipo_fuente,14891,56,14947
+Sulfur oxides (SOx) [familia],combustible_primario,14891,56,14947
+Sulfur oxides (SOx) [familia],ccf8_primario,7680,7267,14947
+Sulfur oxides (SOx) [familia],combustible_secundario,6441,8506,14947
+Sulfur oxides (SOx) [familia],ccf8_secundario,49,14898,14947
+Sulfur oxides (SOx) [familia],ccf8_materia_prima,0,14947,14947
+Sulfur oxides (SOx) [familia],emision_primario,7215,7732,14947
+Sulfur oxides (SOx) [familia],emision_secundario,7215,7732,14947
+Sulfur oxides (SOx) [familia],emision_materia_prima,7215,7732,14947
+Sulfur oxides (SOx) [familia],ciiu4_antiguo,0,14947,14947
+Sulfur oxides (SOx) [familia],id_ciiu4_antiguo,0,14947,14947
+Sulfur oxides (SOx) [familia],rubro_vu_antiguo,0,14947,14947
+Sulfur oxides (SOx) [familia],Listado 2024,7215,7732,14947
+Sulfur oxides (SOx) [familia],TIPO_DATO_RETC,7215,7732,14947
+Sulfur oxides (SOx) [familia],GE,7215,7732,14947
+Sulfur oxides (SOx) [familia],unidad.1,7215,7732,14947
+Sulfur oxides (SOx) [familia],potencia_kw,3551,11396,14947
+Sulfur oxides (SOx) [familia],combustion,7211,7736,14947
+Sulfur oxides (SOx) [familia],fuente_esquema,14947,0,14947
+Sulfur oxides (SOx) [familia],declaracion_id,7680,7267,14947
+Sulfur oxides (SOx) [familia],ciiu6_id,7732,7215,14947
+Sulfur oxides (SOx) [familia],rubro,7732,7215,14947
+Sulfur oxides (SOx) [familia],rubro_id,7732,7215,14947
+Sulfur oxides (SOx) [familia],codigo_unico_territorial,7732,7215,14947
+Sulfur oxides (SOx) [familia],source_id,7732,7215,14947
+Sulfur oxides (SOx) [familia],codigo_fuente,7680,7267,14947
+Sulfur oxides (SOx) [familia],ccf8_procesos,41,14906,14947
+Sulfur oxides (SOx) [familia],emision_combustible_primario,7680,7267,14947
+Sulfur oxides (SOx) [familia],emision_combustible_secundario,7680,7267,14947
+Sulfur oxides (SOx) [familia],emision_procesos,7680,7267,14947
+Sulfur oxides (SOx) [familia],emision_total,7680,7267,14947
+Sulfur oxides (SOx) [familia],origen_data,7732,7215,14947
+Sulfur oxides (SOx) [familia],emision_retc,7732,7215,14947
+Sulfur oxides (SOx) [familia],tipo_outlier,7732,7215,14947
+Sulfur oxides (SOx) [familia],grupo_canonico,14947,0,14947
+Toluene,año,79246,0,79246
+Toluene,razon_social,78987,259,79246
+Toluene,rut_razon_social,76470,2776,79246
+Toluene,nombre_establecimiento,75281,3965,79246
+Toluene,id_vu,79246,0,79246
+Toluene,ciiu4,78392,854,79246
+Toluene,id_ciiu4,78392,854,79246
+Toluene,rubro_vu,57450,21796,79246
+Toluene,id_rubro_vu,57450,21796,79246
+Toluene,region,79246,0,79246
+Toluene,provincia,79246,0,79246
+Toluene,comuna,79246,0,79246
+Toluene,id_comuna,68659,10587,79246
+Toluene,latitud,76353,2893,79246
+Toluene,longitud,76353,2893,79246
+Toluene,cantidad_toneladas,68659,10587,79246
+Toluene,unidad,67992,11254,79246
+Toluene,contaminantes,79246,0,79246
+Toluene,id_contaminantes,79246,0,79246
+Toluene,fuente_emisora_general,68047,11199,79246
+Toluene,id_fuente_emisora,68047,11199,79246
+Toluene,sistema,50664,28582,79246
+Toluene,ciiu6,47235,32011,79246
+Toluene,id_ciiu6,36648,42598,79246
+Toluene,tipo_fuente,47218,32028,79246
+Toluene,combustible_primario,47218,32028,79246
+Toluene,ccf8_primario,19697,59549,79246
+Toluene,combustible_secundario,9536,69710,79246
+Toluene,ccf8_secundario,419,78827,79246
+Toluene,ccf8_materia_prima,52,79194,79246
+Toluene,emision_primario,36648,42598,79246
+Toluene,emision_secundario,36648,42598,79246
+Toluene,emision_materia_prima,36648,42598,79246
+Toluene,ciiu4_antiguo,9110,70136,79246
+Toluene,id_ciiu4_antiguo,9110,70136,79246
+Toluene,rubro_vu_antiguo,9110,70136,79246
+Toluene,Listado 2024,10355,68891,79246
+Toluene,TIPO_DATO_RETC,10355,68891,79246
+Toluene,GE,10355,68891,79246
+Toluene,unidad.1,10355,68891,79246
+Toluene,potencia_kw,3533,75713,79246
+Toluene,combustion,10338,68908,79246
+Toluene,fuente_esquema,79246,0,79246
+Toluene,declaracion_id,10587,68659,79246
+Toluene,ciiu6_id,10587,68659,79246
+Toluene,rubro,10587,68659,79246
+Toluene,rubro_id,10587,68659,79246
+Toluene,codigo_unico_territorial,10587,68659,79246
+Toluene,source_id,10587,68659,79246
+Toluene,codigo_fuente,10587,68659,79246
+Toluene,ccf8_procesos,45,79201,79246
+Toluene,emision_combustible_primario,10587,68659,79246
+Toluene,emision_combustible_secundario,10587,68659,79246
+Toluene,emision_procesos,10587,68659,79246
+Toluene,emision_total,10587,68659,79246
+Toluene,origen_data,10587,68659,79246
+Toluene,emision_retc,10587,68659,79246
+Toluene,tipo_outlier,10587,68659,79246
+Toluene,grupo_canonico,79246,0,79246
+Volatile organic compounds (VOC),año,75522,0,75522
+Volatile organic compounds (VOC),razon_social,74395,1127,75522
+Volatile organic compounds (VOC),rut_razon_social,57414,18108,75522
+Volatile organic compounds (VOC),nombre_establecimiento,58972,16550,75522
+Volatile organic compounds (VOC),id_vu,75522,0,75522
+Volatile organic compounds (VOC),ciiu4,53222,22300,75522
+Volatile organic compounds (VOC),id_ciiu4,53222,22300,75522
+Volatile organic compounds (VOC),rubro_vu,46566,28956,75522
+Volatile organic compounds (VOC),id_rubro_vu,46566,28956,75522
+Volatile organic compounds (VOC),region,75522,0,75522
+Volatile organic compounds (VOC),provincia,75522,0,75522
+Volatile organic compounds (VOC),comuna,75522,0,75522
+Volatile organic compounds (VOC),id_comuna,72299,3223,75522
+Volatile organic compounds (VOC),latitud,55775,19747,75522
+Volatile organic compounds (VOC),longitud,56987,18535,75522
+Volatile organic compounds (VOC),cantidad_toneladas,72299,3223,75522
+Volatile organic compounds (VOC),unidad,72262,3260,75522
+Volatile organic compounds (VOC),contaminantes,75522,0,75522
+Volatile organic compounds (VOC),id_contaminantes,75522,0,75522
+Volatile organic compounds (VOC),fuente_emisora_general,48210,27312,75522
+Volatile organic compounds (VOC),id_fuente_emisora,48210,27312,75522
+Volatile organic compounds (VOC),sistema,27499,48023,75522
+Volatile organic compounds (VOC),ciiu6,14977,60545,75522
+Volatile organic compounds (VOC),id_ciiu6,11754,63768,75522
+Volatile organic compounds (VOC),tipo_fuente,14975,60547,75522
+Volatile organic compounds (VOC),combustible_primario,14973,60549,75522
+Volatile organic compounds (VOC),ccf8_primario,6289,69233,75522
+Volatile organic compounds (VOC),combustible_secundario,4120,71402,75522
+Volatile organic compounds (VOC),ccf8_secundario,416,75106,75522
+Volatile organic compounds (VOC),ccf8_materia_prima,55,75467,75522
+Volatile organic compounds (VOC),emision_primario,11754,63768,75522
+Volatile organic compounds (VOC),emision_secundario,11754,63768,75522
+Volatile organic compounds (VOC),emision_materia_prima,11754,63768,75522
+Volatile organic compounds (VOC),ciiu4_antiguo,3070,72452,75522
+Volatile organic compounds (VOC),id_ciiu4_antiguo,3070,72452,75522
+Volatile organic compounds (VOC),rubro_vu_antiguo,3070,72452,75522
+Volatile organic compounds (VOC),Listado 2024,3433,72089,75522
+Volatile organic compounds (VOC),TIPO_DATO_RETC,3433,72089,75522
+Volatile organic compounds (VOC),GE,3433,72089,75522
+Volatile organic compounds (VOC),unidad.1,3433,72089,75522
+Volatile organic compounds (VOC),potencia_kw,10,75512,75522
+Volatile organic compounds (VOC),combustion,3433,72089,75522
+Volatile organic compounds (VOC),fuente_esquema,75522,0,75522
+Volatile organic compounds (VOC),declaracion_id,3221,72301,75522
+Volatile organic compounds (VOC),ciiu6_id,3223,72299,75522
+Volatile organic compounds (VOC),rubro,3223,72299,75522
+Volatile organic compounds (VOC),rubro_id,3223,72299,75522
+Volatile organic compounds (VOC),codigo_unico_territorial,3223,72299,75522
+Volatile organic compounds (VOC),source_id,3223,72299,75522
+Volatile organic compounds (VOC),codigo_fuente,3221,72301,75522
+Volatile organic compounds (VOC),ccf8_procesos,54,75468,75522
+Volatile organic compounds (VOC),emision_combustible_primario,3221,72301,75522
+Volatile organic compounds (VOC),emision_combustible_secundario,3221,72301,75522
+Volatile organic compounds (VOC),emision_procesos,3221,72301,75522
+Volatile organic compounds (VOC),emision_total,3221,72301,75522
+Volatile organic compounds (VOC),origen_data,3223,72299,75522
+Volatile organic compounds (VOC),emision_retc,3223,72299,75522
+Volatile organic compounds (VOC),tipo_outlier,3223,72299,75522
+Volatile organic compounds (VOC),grupo_canonico,75522,0,75522
