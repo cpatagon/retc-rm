@@ -79,6 +79,11 @@ RetC/
 
 - Completa las secciones de cada unidad del paisaje con hallazgos cuantitativos y referencias a los scripts/notebooks utilizados.
 - Incluye tablas o gráficos derivados en `outputs/tablas/publicados/` y `outputs/graficos/publicados/` con el prefijo `LBP_AIRE_<DATETIME>_`.
+- Utiliza la plantilla editable en `docs/metodologias/plantilla_analisis_brechas.md`.
+
+## Homologación de Términos y Formatos
+- Consulta `docs/metodologias/homologacion_terminos_formatos.md` para unificar unidades, estilos tipográficos, numeración y uso de acrónimos.
+- Asegura que tablas, figuras y anexos sigan las convenciones descritas antes de publicarlos en `outputs/`.
 
 ## Pruebas y Validación
 - Agrega `pytest` para helpers reutilizables usando CSV/GeoJSON de muestra.
