@@ -1120,3 +1120,8 @@ Volatile organic compounds (VOC),origen_data,3223,72299,75522
 Volatile organic compounds (VOC),emision_retc,3223,72299,75522
 Volatile organic compounds (VOC),tipo_outlier,3223,72299,75522
 Volatile organic compounds (VOC),grupo_canonico,75522,0,75522
+diccionario_id_nombre_por_grupo,_id_int_,35,0,35
+diccionario_id_nombre_por_grupo,contaminantes,35,0,35
+diccionario_id_nombre_por_grupo,grupo_canonico,35,0,35
+resumen_por_grupo,grupo_canonico,19,0,19
+resumen_por_grupo,n_filas,19,0,19

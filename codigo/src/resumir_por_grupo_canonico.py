@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Genera un resumen de valores nulos/no nulos por columna en la carpeta `por_grupo_canonico`.
+"""Genera un resumen de valores nulos/no nulos por columna en la carpeta `emisiones_por_variable`.
 
 Uso típico:
   python resumir_por_grupo_canonico.py \
-    --indir ../data/interim/filtrados_region/por_grupo_canonico \
+          --indir ../data/interim/emisiones_por_variable \
     --out ../outputs/tablas/resumenes/LBP_AIRE_$(date +%Y%m%d)_no_nulos_por_grupo.csv
 """
 from __future__ import annotations
@@ -15,10 +15,7 @@ from pathlib import Path
 import pandas as pd
 
 # archivos que no representan contaminantes individuales
-SKIP_FILES = {
-    "diccionario_id_nombre_por_grupo.csv",
-    "resumen_por_grupo.csv",
-}
+SKIP_FILES = set()
 
 
 def load_dataframe(path: Path) -> pd.DataFrame:
@@ -59,7 +56,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Resumen de valores nulos/no nulos por grupo canónico")
     parser.add_argument(
         "--indir",
-        default="../data/interim/filtrados_region/por_grupo_canonico",
+        default="../data/interim/emisiones_por_variable",
         help="Directorio con CSV por contaminante",
     )
     parser.add_argument(
