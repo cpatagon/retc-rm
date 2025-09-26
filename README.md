@@ -54,7 +54,7 @@ RetC/
 
 ```
 4.1 Aire
-  4.1.1 Meteorológicas y Climáticas
+  4.1.1 Meteorológicas y Climáticas (variables típicas de la Dirección Meteorológica de Chile: temperatura, humedad relativa, precipitación, radiación, viento, presión)
     4.1.1.1 Variable(s) Tipo #1
       Análisis de brechas en variable(s) tipo #1
         Unidad Alta Cordillera:
