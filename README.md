@@ -74,7 +74,7 @@ RetC/
     4.1.1.N Variable(s) Tipo #N
       …
   4.1.2 Calidad del Aire
-    (Repetir la estructura para cada Variable(s) Tipo #N)
+    (Repetir la estructura para cada Variable(s) Tipo #N, priorizando variables medidas por la red SINCA [`SO2`, `NOx`, `PM10`, `PM2.5`, etc.])
 ```
 
 - Completa las secciones de cada unidad del paisaje con hallazgos cuantitativos y referencias a los scripts/notebooks utilizados.
