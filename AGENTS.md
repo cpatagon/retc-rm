@@ -40,6 +40,7 @@ RetC/
 - Graficar: `python codigo/src/graficar_emisiones_por_grupo.py --in ../outputs/tablas/datos_resumidos/LBP_AIRE_<DATETIME>_emisiones_por_anio_y_grupo_pivot.csv --outdir ../outputs/graficos`.
 - Reconstruir variables (fusionar columnas duplicadas): `python codigo/src/reconstruir_emisiones_por_variable.py --indir ../data/interim/emisiones_por_variable --outdir ../data/interim/emisiones_por_variable_fusionadas`.
 - Graficar emisiones totales por contaminante: `python codigo/src/graficar_totales_por_variable.py --indir ../data/interim/emisiones_por_variable_fusionadas --outdir ../outputs/graficos/emisiones_totales`.
+- Exportar extractos de columnas clave: `python codigo/src/exportar_extractos_por_variable.py --indir ../data/interim/emisiones_por_variable_fusionadas --outdir ../data/interim/emisiones_por_variable_extractos`.
 - Al preparar informes, apóyate en `docs/metodologias/plantilla_analisis_brechas.md` y `docs/metodologias/homologacion_terminos_formatos.md` para mantener consistencia.
 
 ## Estilo de Código y Notebooks

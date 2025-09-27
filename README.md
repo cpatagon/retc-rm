@@ -40,6 +40,7 @@ RetC/
 - Graficar: `python codigo/src/graficar_emisiones_por_grupo.py --in ../outputs/tablas/datos_resumidos/LBP_AIRE_<DATETIME>_emisiones_por_anio_y_grupo_pivot.csv --outdir ../outputs/graficos`.
 - Reconstruir tablas por contaminante (fusionar columnas duplicadas): `python codigo/src/reconstruir_emisiones_por_variable.py --indir ../data/interim/emisiones_por_variable --outdir ../data/interim/emisiones_por_variable_fusionadas`.
 - Graficar emisiones totales por contaminante: `python codigo/src/graficar_totales_por_variable.py --indir ../data/interim/emisiones_por_variable_fusionadas --outdir ../outputs/graficos/emisiones_totales`.
+- Exportar extractos (columnas clave): `python codigo/src/exportar_extractos_por_variable.py --indir ../data/interim/emisiones_por_variable_fusionadas --outdir ../data/interim/emisiones_por_variable_extractos`.
 
 ## Estilo de Código y Notebooks
 - Python 3.8+, indentación de 4 espacios, PEP 8 (`snake_case`, `CamelCase`, constantes en mayúsculas). Usa `pathlib.Path` y encapsula CLI en `main()`.
