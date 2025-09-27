@@ -38,6 +38,7 @@ RetC/
 - Consolidar: `python codigo/src/consolidar_efp.py --indir ../data/interim/filtrados_region/CSV`.
 - Mezclar 2005-2023: `python codigo/src/consolidar_global_2005_2023.py --indir ../outputs/tablas/retc_consolidados/RETConsolidado_original`.
 - Graficar: `python codigo/src/graficar_emisiones_por_grupo.py --in ../outputs/tablas/datos_resumidos/LBP_AIRE_<DATETIME>_emisiones_por_anio_y_grupo_pivot.csv --outdir ../outputs/graficos`.
+- Reconstruir variables (fusionar columnas duplicadas): `python codigo/src/reconstruir_emisiones_por_variable.py --indir ../data/interim/emisiones_por_variable --outdir ../data/interim/emisiones_por_variable_fusionadas`.
 - Al preparar informes, apóyate en `docs/metodologias/plantilla_analisis_brechas.md` y `docs/metodologias/homologacion_terminos_formatos.md` para mantener consistencia.
 
 ## Estilo de Código y Notebooks
