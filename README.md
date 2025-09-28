@@ -34,9 +34,13 @@ RetC/
 ## Comandos Clave
 - Preparar entorno: `python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`.
 - Descargar datos: `python codigo/src/descarga_retc.py` (usa `--out` solo si necesitas otra carpeta).
-- Filtrar RM: `python codigo/src/filtrado_region_todo.py --region "Metropolitana de Santiago"`.
-- Consolidar: `python codigo/src/consolidar_efp.py --indir ../data/interim/filtrados_region/CSV`.
-- Mezclar 2005-2023: `python codigo/src/consolidar_global_2005_2023.py --indir ../outputs/tablas/retc_consolidados/RETConsolidado_original`.
+- Normalizar RAW por año: `python codigo/src/convertir_raw_a_csv_por_ano.py --indir ../data/raw/descargas_retc --outdir ../data/interim/01_emisiones_por_ano`.
+- Filtrar RM: `python codigo/src/filtrar_region_metropolitana.py --indir ../data/interim/01_emisiones_por_ano --outdir ../data/interim/02_emisiones_por_ano_rm`.
+- Fusionar por tramos: `python codigo/src/fusionar_emisiones_por_grupo.py --indir ../data/interim/02_emisiones_por_ano_rm --outdir ../data/interim/03_emisiones_rm_fusionadas`.
+- Estandarizar contaminantes: `python codigo/src/estandarizar_contaminantes_rm.py --indir ../data/interim/03_emisiones_rm_fusionadas --outdir ../data/interim/03_emisiones_rm_fusionadas`.
+- Estandarizar actividad económica: `python codigo/src/estandarizar_ciiu_rm.py --indir ../data/interim/03_emisiones_rm_fusionadas --outdir ../data/interim/03_emisiones_rm_fusionadas`.
+- Homologar emisiones totales: `python codigo/src/agregar_emision_total_rm.py --indir ../data/interim/03_emisiones_rm_fusionadas`.
+- Reconstruir tablas por contaminante (fusionar columnas duplicadas): `python codigo/src/reconstruir_emisiones_por_variable.py --indir ../data/interim/emisiones_por_variable --outdir ../data/interim/emisiones_por_variable_fusionadas`.
 - Graficar: `python codigo/src/graficar_emisiones_por_grupo.py --in ../outputs/tablas/datos_resumidos/LBP_AIRE_<DATETIME>_emisiones_por_anio_y_grupo_pivot.csv --outdir ../outputs/graficos`.
 - Reconstruir tablas por contaminante (fusionar columnas duplicadas): `python codigo/src/reconstruir_emisiones_por_variable.py --indir ../data/interim/emisiones_por_variable --outdir ../data/interim/emisiones_por_variable_fusionadas`.
 - Graficar emisiones totales por contaminante: `python codigo/src/graficar_totales_por_variable.py --indir ../data/interim/emisiones_por_variable_fusionadas --outdir ../outputs/graficos/emisiones_totales`.

@@ -1,17 +1,10 @@
 #!/usr/bin/env python3
-"""Genera gráficos de emisiones totales por año para cada contaminante.
+"""Genera gráficos de emisiones acumuladas por año para cada contaminante.
 
-Lee los CSV de `emisiones_por_variable_fusionadas` (producto de
-`reconstruir_emisiones_por_variable.py`), consolida las emisiones anuales y
-produce:
-  - Un PNG por contaminante en la carpeta destino.
-  - Un CSV resumido con el total anual por contaminante.
-
-Uso típico:
-  python graficar_totales_por_variable.py \
-    --indir ../data/interim/emisiones_por_variable_fusionadas \
-    --outdir ../outputs/graficos/emisiones_totales \
-    --summary ../outputs/tablas/datos_resumidos/LBP_AIRE_<fecha>_totales_por_variable.csv
+Usa los CSV de `emisiones_por_variable_extractos` para calcular el total anual y
+su acumulado, guardando:
+  - Un PNG por contaminante mostrando la serie acumulada.
+  - Un CSV global con columnas (`contaminante`, `year`, `emision`, `emision_acumulada`).
 """
 from __future__ import annotations
 
@@ -54,35 +47,36 @@ def normalize_number(value):
     return text
 
 
-def aggregate_file(path: Path) -> pd.DataFrame:
+def aggregate_cumulative(path: Path) -> pd.DataFrame:
     df = pd.read_csv(path, dtype=str)
     if "año" not in df.columns and "ano" not in df.columns:
         raise ValueError(f"El archivo {path.name} no contiene columna año/ano")
     year_col = "año" if "año" in df.columns else "ano"
     df["year"] = to_year(df[year_col])
 
-    # Usar columna consolidada `cantidad_toneladas`
     if "cantidad_toneladas" not in df.columns:
-        raise ValueError(f"El archivo {path.name} no tiene columna cantidad_toneladas tras la fusión")
+        raise ValueError(f"El archivo {path.name} no tiene columna cantidad_toneladas")
     df["emision"] = to_float(df["cantidad_toneladas"])
 
-    aggregated = (
+    agg = (
         df.dropna(subset=["year"])
         .groupby("year", as_index=False)["emision"]
         .sum(min_count=1)
+        .sort_values("year")
     )
-    aggregated["contaminante"] = path.stem
-    return aggregated
+    agg["emision_acumulada"] = agg["emision"].cumsum()
+    agg["contaminante"] = path.stem
+    return agg
 
 
-def plot_series(df: pd.DataFrame, out_png: Path, contaminant: str) -> None:
+def plot_cumulative(df: pd.DataFrame, out_png: Path, contaminant: str) -> None:
     if df.empty:
         return
     plt.figure(figsize=(8, 4.5))
-    plt.plot(df["year"], df["emision"], marker="o")
-    plt.title(f"{contaminant} — Emisión total anual (t/año)")
+    plt.plot(df["year"], df["emision_acumulada"], marker="o")
+    plt.title(f"{contaminant} — Emisión acumulada (t/año)")
     plt.xlabel("Año")
-    plt.ylabel("Emisión total (t/año)")
+    plt.ylabel("Emisión acumulada (t)")
     plt.grid(True)
     plt.tight_layout()
     out_png.parent.mkdir(parents=True, exist_ok=True)
@@ -95,25 +89,25 @@ def resolve_summary_path(default_dir: Path, summary: str | None) -> Path:
         return Path(summary).expanduser().resolve()
     default_dir.mkdir(parents=True, exist_ok=True)
     date_tag = datetime.now().strftime("%Y%m%d")
-    return default_dir / f"LBP_AIRE_{date_tag}_totales_por_variable.csv"
+    return default_dir / f"LBP_AIRE_{date_tag}_acumulado_por_variable.csv"
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Gráficos de emisiones totales por contaminante")
+    parser = argparse.ArgumentParser(description="Gráficos de emisiones acumuladas por contaminante")
     parser.add_argument(
         "--indir",
-        default="../data/interim/emisiones_por_variable_fusionadas",
-        help="Carpeta con los CSV por contaminante",
+        default="../data/interim/emisiones_por_variable_extractos",
+        help="Carpeta con los CSV de columnas clave",
     )
     parser.add_argument(
         "--outdir",
-        default="../outputs/graficos/emisiones_totales",
-        help="Carpeta de salida para los PNG",
+        default="../outputs/graficos/emisiones_totales_acumuladas",
+        help="Carpeta de salida para los gráficos",
     )
     parser.add_argument(
         "--summary",
         default=None,
-        help="Ruta del CSV de resumen (por defecto outputs/tablas/datos_resumidos/LBP_AIRE_<fecha>_totales_por_variable.csv)",
+        help="Ruta del CSV resumen (por defecto outputs/tablas/datos_resumidos/LBP_AIRE_<fecha>_acumulado_por_variable.csv)",
     )
     args = parser.parse_args()
 
@@ -125,24 +119,24 @@ def main() -> None:
     default_summary_dir = Path(__file__).resolve().parents[2] / "outputs" / "tablas" / "datos_resumidos"
     summary_path = resolve_summary_path(default_summary_dir, args.summary)
 
-    agg_frames = []
+    frames = []
     for csv_path in sorted(indir.glob("*.csv")):
         if csv_path.name in SKIP_FILES:
             continue
-        aggregated = aggregate_file(csv_path)
-        agg_frames.append(aggregated)
-        plot_series(aggregated, outdir / f"{safe_name(csv_path.stem)}.png", csv_path.stem)
-        print(f"[✓] Graficado {csv_path.name}")
+        agg = aggregate_cumulative(csv_path)
+        frames.append(agg)
+        plot_cumulative(agg, outdir / f"{safe_name(csv_path.stem)}.png", csv_path.stem)
+        print(f"[✓] Graficado acumulado {csv_path.name}")
 
-    if not agg_frames:
+    if not frames:
         raise SystemExit("No se encontraron archivos a procesar")
 
     summary_path.parent.mkdir(parents=True, exist_ok=True)
-    pd.concat(agg_frames, ignore_index=True).sort_values(["contaminante", "year"]).to_csv(
+    pd.concat(frames, ignore_index=True).sort_values(["contaminante", "year"]).to_csv(
         summary_path, index=False, encoding="utf-8-sig"
     )
-    print(f"[✓] Resumen anual guardado en: {summary_path}")
-    print(f"[✓] Gráficos en: {outdir}")
+    print(f"[✓] Resumen acumulado guardado en: {summary_path}")
+    print(f"[✓] Gráficos acumulados en: {outdir}")
 
 
 if __name__ == "__main__":

@@ -45,11 +45,23 @@ def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     if "año" not in df.columns and "ano" in df.columns:
         df["año"] = df["ano"]
+
     if "cantidad_toneladas" in df.columns:
-        df["cantidad_toneladas"] = (
-            df["cantidad_toneladas"].astype(str).str.replace(",", ".", regex=False).str.strip()
-        )
+        df["cantidad_toneladas"] = df["cantidad_toneladas"].apply(normalize_number)
     return df
+
+
+def normalize_number(value) -> str | None:
+    if pd.isna(value):
+        return None
+    text = str(value).strip()
+    if text == "" or text.lower() in {"na", "nan", "none"}:
+        return None
+    # si contiene coma y punto, asumir punto como separador de miles
+    if "," in text and "." in text:
+        text = text.replace(".", "")
+    text = text.replace(",", ".")
+    return text
 
 
 def extract_columns(df: pd.DataFrame) -> pd.DataFrame:
