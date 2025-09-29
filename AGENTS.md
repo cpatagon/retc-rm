@@ -69,3 +69,40 @@ RetC/
 ## Commits y Pull Requests
 - Commits en presente y de alcance acotado (`filtrado: normaliza CRS a EPSG:4326`).
 - PRs deben detallar scripts/notebooks tocados, comandos de reproducción, artefactos regenerados y dependencias nuevas.
+
+## Prompt para Informe de Brechas
+**Prompt para redacción asistida del Informe de Brechas**
+
+Contexto del proyecto:
+- Analizamos emisiones RETC (Región Metropolitana de Santiago, Chile) cruzadas con unidades del paisaje.
+- La tabla consolidada principal es `data/interim/04_emisiones_consolidadas/retc_RM_consolidado.csv` e incluye: `id_unico`, `año`, `contaminante_canon`, `actividad_canon`, `actividad_macro`, `emision_total`, `rut`, `comuna`, `latitud`, `longitud`, `unidad`, `razon_social`, `nombre_establecimiento`, `fuente_emisora_general`, `tipo_fuente`, `latitud_nueva`, `longitud_nueva`, `unidad_paisaje`.
+- Glosarios: `metadata/diccionarios/` (contaminantes) y `metadata/ciiu_codigo_descripcion.csv` + `metadata/ciiu_glosario.md` (actividad/macros).
+- Gráficos disponibles: `outputs/graficos/emisiones_totales_acumuladas`, `outputs/graficos/emisiones_distribucion`, `outputs/graficos/emisiones_totales_por_paisaje/2023/`.
+- Resumen del pipeline: `notebooks/20_geoespacial/022_pipeline_emisiones_rm.ipynb`.
+
+Objetivo del informe:
+- Seguir la estructura `docs/metodologias/plantilla_analisis_brechas.md`:
+  1. **4.1 Aire**: contexto general (periodo, fuentes, scripts).
+  2. **4.1.1 Meteorológicas y Climáticas**: variables típicas (temperatura, humedad, precipitación, radiación, viento, presión). Para cada “Variable Tipo #N” describir brechas generales, espaciales (por unidad de paisaje) y temporales (tendencias anuales).
+  3. **4.1.2 Calidad del Aire**: contaminantes SINCA (SO₂, NOx, PM10, PM2.5, etc.). Misma subestructura que 4.1.1.
+  4. **4.2 Síntesis y Recomendaciones**: hallazgos clave, vacíos de información y recomendaciones de monitoreo.
+  5. Anexos opcionales: tablas/figuras relevantes y notas metodológicas.
+
+Estilo y requerimientos:
+- Redacción profesional en español, citando tablas o gráficos que respalden cada hallazgo.
+- Indicar unidades en cada cifra (t/año, etc.).
+- Destacar unidades del paisaje críticas.
+- Si falta información para alguna variable, documentarlo y sugerir fuentes alternativas.
+- Sumar recomendaciones finales basadas en las brechas detectadas.
+
+Datos y comandos de soporte:
+- Scripts del flujo completo en `README.md` / `AGENTS.md`.
+- Consolidado principal: `data/interim/04_emisiones_consolidadas/retc_RM_consolidado.csv`.
+- Diccionarios: `metadata/diccionarios/`, `metadata/ciiu_codigo_descripcion.csv`.
+- Notebook orientador: `notebooks/20_geoespacial/022_pipeline_emisiones_rm.ipynb`.
+
+Instrucción a la IA:
+"Usa este contexto para redactar el informe de brechas siguiendo la estructura indicada. Cita las fuentes de datos (tablas/gráficos) que soportan cada análisis, destaca hallazgos relevantes por contaminante y unidad de paisaje, y entrega recomendaciones de monitoreo o captura de datos cuando falten antecedentes."
+
+
+Ten en cuenta las reglas de `docs/metodologias/homologacion_terminos_formatos.md` para estilos, unidades, tablas, figuras y acrónimos.
