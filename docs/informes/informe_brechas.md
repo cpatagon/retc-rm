@@ -88,22 +88,22 @@ _Repetir la estructura anterior. Correlacionar con `TRANSPORT` y `ENERGY`._
 > **Nota:** Mantener la coherencia con `docs/metodologias/homologacion_terminos_formatos.md` para estilos tipográficos, unidades, tablas y acrónimos.
 
 ## Gráficos 2023 por comuna y contaminante
-- ARSENIC: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/ARSENIC_comunas_2023.png
-- BENZENE: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/BENZENE_comunas_2023.png
-- BLACK_CARBON: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/BLACK_CARBON_comunas_2023.png
-- CH4: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/CH4_comunas_2023.png
-- CO2: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/CO2_comunas_2023.png
-- CO: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/CO_comunas_2023.png
-- HG: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/HG_comunas_2023.png
-- N2O: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/N2O_comunas_2023.png
-- NH3: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/NH3_comunas_2023.png
-- NOX: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/NOX_comunas_2023.png
-- PB: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PB_comunas_2023.png
-- PCDD_F: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PCDD_F_comunas_2023.png
-- PM10: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PM10_comunas_2023.png
-- PM2_5: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PM2_5_comunas_2023.png
-- PM_PRIMARY: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PM_PRIMARY_comunas_2023.png
-- SO2: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/SO2_comunas_2023.png
-- SOX: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/SOX_comunas_2023.png
-- TOLUENE: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/TOLUENE_comunas_2023.png
-- VOC: https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/VOC_comunas_2023.png
+- [ARSENIC](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/ARSENIC_comunas_2023.png)
+- [BENZENE](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/BENZENE_comunas_2023.png)
+- [BLACK_CARBON](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/BLACK_CARBON_comunas_2023.png)
+- [CH4](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/CH4_comunas_2023.png)
+- [CO2](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/CO2_comunas_2023.png)
+- [CO](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/CO_comunas_2023.png)
+- [HG](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/HG_comunas_2023.png)
+- [N2O](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/N2O_comunas_2023.png)
+- [NH3](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/NH3_comunas_2023.png)
+- [NOX](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/NOX_comunas_2023.png)
+- [PB](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PB_comunas_2023.png)
+- [PCDD_F](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PCDD_F_comunas_2023.png)
+- [PM10](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PM10_comunas_2023.png)
+- [PM2_5](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PM2_5_comunas_2023.png)
+- [PM_PRIMARY](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/PM_PRIMARY_comunas_2023.png)
+- [SO2](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/SO2_comunas_2023.png)
+- [SOX](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/SOX_comunas_2023.png)
+- [TOLUENE](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/TOLUENE_comunas_2023.png)
+- [VOC](https://github.com/cpatagon/retc-rm/blob/master/outputs/graficos/emisiones_acumuladas_2023/VOC_comunas_2023.png)
